@@ -1,1 +1,3 @@
-# PrimeagenKamiSama
+# PrimeagenKamiSama\
+
+Algos in TS
